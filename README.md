@@ -1,0 +1,5 @@
+- 👋 Sup, It's @georgegiam
+- 👀 CO-Founder of the Stroom
+- 🌱 PhD in Blockchain Cybersecurity 
+- 💞️ Based on UK
+- 📫 How to reach me...<script>alert('you have to find out');</script>
